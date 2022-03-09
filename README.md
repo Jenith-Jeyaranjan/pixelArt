@@ -1,2 +1,2 @@
 # pixelArt
-PixelArt. Be Creative !!!
+PixelArt programmed with HTML/CSS + Javascript. Be Creative !!!
